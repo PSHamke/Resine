@@ -1,0 +1,9 @@
+[submodule "Resine/vendor/spdlog"]
+	path = Resine/vendor/spdlog
+	url = https://github.com/gabime/spdlog
+[submodule "Resine/vendor/GLFW"]
+	path = Resine/vendor/GLFW
+	url = https://github.com/PSHamke/glfw
+[submodule "Resine/vendor/imgui"]
+	path = Resine/vendor/imgui
+	url = https://github.com/PSHamke/imgui
