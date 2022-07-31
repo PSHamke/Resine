@@ -7,3 +7,6 @@
 [submodule "Resine/vendor/imgui"]
 	path = Resine/vendor/imgui
 	url = https://github.com/PSHamke/imgui
+[submodule "Resine/vendor/glm"]
+	path = Resine/vendor/glm
+	url = https://github.com/g-truc/glm
